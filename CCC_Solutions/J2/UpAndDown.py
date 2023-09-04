@@ -1,0 +1,5 @@
+nforward = int(input())
+nbackward = int(input())
+bforward = int(input())
+bbackward = int(input())
+total = int(input())
